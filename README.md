@@ -32,12 +32,6 @@ Creating date tables in Power Query
 
 Deriving fiscal months & quarters
 
-Building relationships in Power Pivot
-
-Adding supplementary data to models
-
-Writing DAX calculated columns
-
 🤝 Soft Skills Demonstrated
 
 Clear understanding of sales reporting
